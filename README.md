@@ -1,1 +1,23 @@
-IyBQYXZlbCBDaGVya2FzaGluCgoqKk1hbmFnaW5nIFBhcnRuZXIgYXQgTWluZHJvY2sqKiDCtyBBSSBzYWZldHkgcmVzZWFyY2hlciDCtyBMb3MgQWx0b3MsIENBCgpJIGludmVzdCBpbiBhbmQgYnVpbGQgQUkgc3lzdGVtcyDigJQgZnJvbSB2ZW50dXJlIGNoZWNrcyB0byBMZWFuIHByb29mcyB0byBydW5uaW5nIGNvZGUuIFByZXZpb3VzbHkgR00gQ29uc3VtZXIgJiBPbmxpbmUgKFJ1c3NpYSkgYXQgTWljcm9zb2Z0LCBDb3VudHJ5IE1hbmFnZXIgUnVzc2lhL0NJUyBhdCBBZG9iZSBhbmQgU2llYmVsLiBQaEQgaW4gQ29tcHV0ZXIgU2NpZW5jZS4KCiMjIEJ1aWxkaW5nIG5vdwoKLSAqKltoYWNrdC5jb21dKGh0dHBzOi8vaGFja3QuY29tKSoqIOKAlCBhIHNlbGYtc3VzdGFpbmluZyBzZXJ2aWNlIGZvciBwZW9wbGUgYW5kIGFnZW50cyB3aG8gYnVpbGQKLSAqKkNWRSBVbml2ZXJzaXR5Kiog4oCUIGhhbmRzLW9uIGN5YmVyc2VjdXJpdHkgZWR1Y2F0aW9uOiBmb3JtYWwgbWV0aG9kcywgbGFicywgcmVhbCBoYXJkd2FyZQotICoqUHJvdG9jb2wgUGhpIC8geEhUVFAqKiDigJQgb3BlbiBtYW5kYXRlICYgcGF5bWVudCBwcm90b2NvbCBmb3IgQUkgYWdlbnRzICh4NDAyIGZhbWlseTogeDQwMS94NDAyL3g0MDQpCi0gKipPbnRvbG9neSBQcm9vZiBTeXN0ZW0qKiDigJQgZm9ybWFsIHZlcmlmaWNhdGlvbiBlbmdpbmVlcmluZyBpbiBMZWFuIDQgKyBtYXRobGliCgojIyBJbnRlcmVzdHMKClNvdmVyZWlnbiBhZ2VudCBpbmZyYXN0cnVjdHVyZSDCtyBNQ1AvQTJBIMK3IGFnZW50IGVjb25vbWllcyDCtyBmb3JtYWwgbWV0aG9kcyDCtyBjeWJlcnNlY3VyaXR5CgojIyBSZWFjaCBtZQoKLSBFbWFpbDogbWludXR0YUBnbWFpbC5jb20KLSBYOiBbQHBfY2hlcmthc2hpbl0oaHR0cHM6Ly94LmNvbS9wX2NoZXJrYXNoaW4pCi0gTGlua2VkSW46IFtjaGVya2FzaGluXShodHRwczovL2xpbmtlZGluLmNvbS9pbi9jaGVya2FzaGluKQotIEluc3RhZ3JhbTogW0BjaGVya2FzaGluXShodHRwczovL2luc3RhZ3JhbS5jb20vY2hlcmthc2hpbikK
+# Pavel Cherkashin
+
+**Managing Partner at Mindrock** · AI safety researcher · Los Altos, CA
+
+I invest in and build AI systems — from venture checks to Lean proofs to running code. Previously GM Consumer & Online (Russia) at Microsoft, Country Manager Russia/CIS at Adobe and Siebel. PhD in Computer Science.
+
+## Building now
+
+- **[hackt.com](https://hackt.com)** — a self-sustaining service for people and agents who build
+- **CVE University** — hands-on cybersecurity education: formal methods, labs, real hardware
+- **Protocol Phi / xHTTP** — open mandate & payment protocol for AI agents (x402 family: x401/x402/x404)
+- **Ontology Proof System** — formal verification engineering in Lean 4 + mathlib
+
+## Interests
+
+Sovereign agent infrastructure · MCP/A2A · agent economies · formal methods · cybersecurity
+
+## Reach me
+
+- Email: minutta@gmail.com
+- X: [@p_cherkashin](https://x.com/p_cherkashin)
+- LinkedIn: [cherkashin](https://linkedin.com/in/cherkashin)
+- Instagram: [@cherkashin](https://instagram.com/cherkashin)
